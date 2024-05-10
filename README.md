@@ -1,3 +1,20 @@
+![Captura de Tela (209)](https://github.com/PauloAquarius0299/challenge-upload-image/assets/114706743/8af85ff3-e9b8-4658-8c21-12ff80cd6ac6)
+# Challenge Upload Images
+Desafio do DevChallenge usando Next e Typescript 
+## Pre-Requisitos 
+Uso do banco de dados Supabase para criar um repositorio das imagens onde qualquer um consegue ter acesso, plataforma simples estilizada com tailwindcss, utilização do React para criar toda interface e suas funcionalidade e criação de api/upload para retorno do  backend
+## Ferramentas 
+* React
+* Next
+* Tailwindcss
+* Supabase
+### LINK
+Link do Desafio 
+```
+https://legacy.devchallenges.io/challenges/O2iGT9yBd6xZBrOcVirx
+```
+
+-- \\ --
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
